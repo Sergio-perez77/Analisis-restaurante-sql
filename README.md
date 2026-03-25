@@ -17,7 +17,7 @@ Las consultas SQL que se utilizaron, se encuentran en el archivo 'queries.sql'.
 ##Insights
 -El dia sabado concentra la mayor facturacion del restaurante.
 -La cena representa la mayor parte de los ingresos totales.
--El dia viernes presenta el mayor porcentaje en propinas.
+-El dia viernes presenta el mayor porcentaje en propinas, aunque el domingo muetra valores cercanos, indicando un comportamiento consistente durante el fin de semana.
 -A medida que aumenta el tamaño del grupo, disminuye el porcentaje de propinas.
 
 ##Conclusion
