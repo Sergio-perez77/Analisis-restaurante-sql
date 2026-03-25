@@ -5,8 +5,9 @@ Analisis de datos de un restaurante usando sql
 Analizar datos de un restaurante para comprender sus patrones de consumo, ingresos y comportamiento de clientes.
 
 ##Herramientas:
--SQL
--Excel (limpieza de datos)
+-SQL.
+-Excel (limpieza de datos).
+-Tableau para graficos.
 
 ##Dataset:
 Dataset de transacciones de un restaurante con informacion sobre cuentas, propinas, dias, horarios y tamaño de grupo.
